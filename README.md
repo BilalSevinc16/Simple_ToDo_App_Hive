@@ -1,16 +1,11 @@
-# simple_todo_app
+# Simple Hive ToDo App
 
-A new Flutter project.
+Simple ToDo App with Hive
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_ToDo_App_Hive/assets/146417248/fb82c921-275e-422d-965b-3d2b7f12d001)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_ToDo_App_Hive/assets/146417248/846d1ecf-e947-4286-805a-5b6735beabf4)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_ToDo_App_Hive/assets/146417248/b007a30b-bf98-44a2-b639-da6395bfffe9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_ToDo_App_Hive/assets/146417248/b4542417-34a1-4199-9792-e0569f29f801)
